@@ -39,3 +39,5 @@ Example: [gitmoji](https://gitmoji.dev/)
 - `perf`: :zap:
 - `test`: :white_check_mark:
 - `chore`: *any other emoji*
+
+A vscode extension for ya! [Gitmoji extention](https://github.com/seatonjiang/gitmoji-vscode)
