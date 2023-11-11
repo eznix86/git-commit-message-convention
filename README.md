@@ -1,4 +1,4 @@
-# Git commit message convetion
+# Git commit message conventions
 
 Convention:
 
