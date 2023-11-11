@@ -19,12 +19,29 @@ Convention:
 
 [optional footer]
 ```
+Example:
 
 ```
 chore(user): create folder structure for users
 ```
 
-Note: a scope is not necessary.
+_Note_: a scope is not necessary.
+
+## Description format
+The description should always be in this format:
+
+If applied, this commit will `<description>`
+
+Example:
+```
+chore(user): create folder structure for users
+chore(infra): scale the service in kubernetes
+feat: added pagination
+style: make button cooler
+perf: optimize imports
+🐛 fix login for administrators
+✅ add new tests
+```
 
 ## Cool stuff
 Some repository uses emojis as convention:
